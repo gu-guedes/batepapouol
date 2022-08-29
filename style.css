@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+    
+    background-color: #E5E5E5;
+}
+.topo{
+    background-color: #FFFFFF;
+    width: 100%;
+    height:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.escreva-aqui{
+    background-color: #FFFFFF;
+    width: 100%;
+    height:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+ion-icon{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.butao{
+    text-decoration: none;
+}
+.mensagem-normal{
+    background-color: #ffffff;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    
+    font-family: 'Roboto', sans-serif;
+
+}
+.mensagem-status{
+    background-color: #DCDCDC;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    
+    font-family: 'Roboto', sans-serif;
+
+}
+.tempo{
+    font-size: 14px;
+    color: rgb(183, 179, 179)
+
+}
+.nome{
+    font-weight: 700;
+
+}
+.destino{
+    font-weight: 700;
+
+}
+.conteudo{
+   
+   
+}
+p{
+    word-wrap:break-word;
+    
+    overflow: hidden;
+
+}
+.mensagem-reservada{
+    background-color:#FFDEDE;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    
+    font-family: 'Roboto', sans-serif;
+}
+.digitada{
+    border-style: none;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+}
